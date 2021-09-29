@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Library Rest API](https://github.com/raul-lima/bootcamp-java-projeto02)
 
-- 🌱 I’m currently learning **Spring Boot, Rest API, Maven, JDBC, JPA, Spring Data JPA**
+- 🌱 I’m currently learning **Spring Boot, Maven, Spring Data JPA, ThymeLeaf and Bootstrap**
 
 - 📫 How to reach me **raultorres.lima@gmail.com**
 
