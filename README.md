@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on [Library Rest API](https://github.com/raul-lima/bootcamp-java-projeto02)
+- 🔭 I’m currently working on [Library Rest API](https://github.com/raul-lima/bootcamp-java-projeto02) and [art](https://github.com/raul-lima/art)
 
 - 🌱 I’m currently learning **Spring Boot, Maven, Spring Data JPA, ThymeLeaf and Bootstrap**
 
