@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bookstore Rest API](https://github.com/raul-lima/bootcamp-java-projeto04) and [mudi](https://github.com/raul-lima/mudi)
 
-- 🌱 I’m currently learning **Spring, Angular, ThymeLeaf and Bootstrap 5**
+- 🌱 I’m currently learning **Spring, ThymeLeaf and Bootstrap 5**
 
 - 📫 How to reach me **raultorres.lima@gmail.com**
 
