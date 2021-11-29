@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on [Bookstore Rest API](https://github.com/raul-lima/bootcamp-java-projeto05) and [mudi](https://github.com/raul-lima/mudi)
+- 🔭 I’m currently working on [Bookstore Rest API](https://github.com/raul-lima/livraria-api) and [mudi](https://github.com/raul-lima/mudi)
 
-- 🌱 I’m currently learning **Spring framework and Bootstrap 5**
+- 🌱 I’m currently learning **Spring framework, Bootstrap 5, Design Patterns**
 
 - 📫 How to reach me **raultorres.lima@gmail.com**
 
