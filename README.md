@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on [Bookstore Rest API](https://github.com/raul-lima/livraria-api) and [#50ProjectsIn50Days](https://github.com/raul-lima/50-projects-50-days)
-
-- 🌱 I’m currently learning **Spring framework, Bootstrap 5, Design Patterns, Vue.js**
-
-- 📫 How to reach me **raultorres.lima@gmail.com**
+- 📫 How to reach me: **raultorres.lima@gmail.com**
 
 
 
