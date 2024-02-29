@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Raul
 
 
-<h3 align="center">Full Stack Java  Developer<h3>
+<h3 align="center">Full Stack Java Developer<h3>
 
----
 
-### 📱 Connect with me
+## 📱 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raultorres.lima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/raultlima/)
 
----
 
-### 🎓 Languages and tools
+## 🎓 Languages and tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,17 +25,14 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-### 💻 Past work
+## 💻 Past work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raul-lima&repo=livraria-api&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raul-lima/livraria-api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raul-lima&repo=fcamara-challenge-landing-page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raul-lima/fcamara-challenge-landing-page)
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raul-lima&theme=shadow_red&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raul-lima&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
